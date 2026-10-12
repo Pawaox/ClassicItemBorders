@@ -1,4 +1,4 @@
-## Interface: 11508, 20505, 30405, 40402, 50502
+## Interface: 11509, 20506, 30405, 40402, 50506
 ## Title: Classic Item Borders
 ## Author: Pawaox
 ## Notes: Shows rarity colored borders around items everywhere
