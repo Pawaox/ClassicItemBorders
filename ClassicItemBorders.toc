@@ -1,0 +1,7 @@
+## Interface: 11508, 20505, 30405, 40402, 50502
+## Title: Classic Item Borders
+## Author: Pawaox
+## Notes: Shows rarity colored borders around items everywhere
+## SavedVariables: SV_iborder
+## X-Curse-Project-ID: 498648
+ClassicItemBorders.lua
